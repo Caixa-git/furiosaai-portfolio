@@ -46,5 +46,5 @@ CRITICALITY 점수 시스템으로 작업 중요도를 판단하고, FIRE 필터
 
 ## 연락처
 
-**위진수** · 010-2456-1384 · wjsfund@gmail.com  
+**위진수** · 010-****-1384 · wj***@gmail.com  
 **GitHub:** [github.com/Caixa-git](https://github.com/Caixa-git)
